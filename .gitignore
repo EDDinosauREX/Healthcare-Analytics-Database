@@ -1,0 +1,18 @@
+# SQLite temporary files
+*.db-journal
+*.db-wal
+*.db-shm
+
+# DB Browser for SQLite project files
+*.sqbpro
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# PyCharm project settings
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
