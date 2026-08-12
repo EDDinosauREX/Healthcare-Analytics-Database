@@ -1,0 +1,226 @@
+diagnosis_id,patient_id,diagnosis,diagnosis_date
+1,1,Type 2 Diabetes,3/24/2023
+2,2,Insomnia,3/27/2025
+3,3,Sleep Apnea,4/26/2024
+4,4,Asthma,3/10/2024
+5,5,Chronic Kidney Disease,9/16/2022
+6,6,Osteoarthritis,11/8/2023
+7,7,Type 2 Diabetes,6/5/2025
+8,8,Anemia,1/29/2022
+9,9,Obesity,1/13/2025
+10,10,Type 2 Diabetes,12/21/2023
+11,11,Chronic Obstructive Pulmonary Disease,11/17/2024
+12,12,Epilepsy,8/27/2024
+13,13,Anemia,9/24/2023
+14,14,Insomnia,3/27/2023
+15,15,Anemia,7/5/2024
+16,16,Insomnia,7/24/2022
+17,17,Chronic Obstructive Pulmonary Disease,5/3/2024
+18,18,Hyperlipidemia,5/19/2022
+19,19,Osteoarthritis,8/7/2024
+20,20,Asthma,7/7/2024
+21,21,Chronic Obstructive Pulmonary Disease,5/4/2022
+22,22,Heart Failure,1/11/2025
+23,23,Hyperlipidemia,8/31/2023
+24,24,Osteoporosis,2/23/2025
+25,25,Insomnia,3/2/2022
+26,26,Sleep Apnea,9/20/2022
+27,27,Chronic Kidney Disease,12/23/2023
+28,28,Osteoarthritis,10/2/2022
+29,29,Chronic Obstructive Pulmonary Disease,4/27/2023
+30,30,Asthma,8/23/2024
+31,31,Asthma,7/31/2022
+32,32,Obesity,9/17/2024
+33,33,Type 2 Diabetes,6/1/2022
+34,34,Chronic Obstructive Pulmonary Disease,9/13/2022
+35,35,Osteoporosis,5/8/2024
+36,36,Type 2 Diabetes,3/5/2025
+37,37,Osteoarthritis,9/7/2022
+38,38,Osteoarthritis,3/15/2023
+39,39,Coronary Artery Disease,9/13/2025
+40,40,Sleep Apnea,12/16/2025
+41,41,Hyperlipidemia,4/28/2024
+42,42,Insomnia,10/16/2023
+43,43,Anemia,5/22/2023
+44,44,Heart Failure,6/13/2024
+45,45,Type 2 Diabetes,5/13/2024
+46,46,Epilepsy,3/7/2023
+47,47,Asthma,2/3/2022
+48,48,Osteoporosis,8/10/2022
+49,49,Sleep Apnea,11/1/2025
+50,50,Insomnia,9/3/2023
+51,51,Insomnia,12/6/2023
+52,52,Obesity,11/14/2023
+53,53,Heart Failure,2/17/2025
+54,54,Asthma,4/5/2022
+55,55,Asthma,5/1/2022
+56,56,Hypertension,2/8/2023
+57,57,Chronic Obstructive Pulmonary Disease,12/13/2023
+58,58,Hyperlipidemia,9/7/2024
+59,59,Anemia,12/18/2023
+60,60,Sleep Apnea,10/7/2023
+61,61,Osteoporosis,10/2/2025
+62,62,Anemia,8/24/2022
+63,63,Heart Failure,4/15/2024
+64,64,Epilepsy,3/3/2024
+65,65,Chronic Kidney Disease,11/23/2023
+66,66,Heart Failure,3/25/2025
+67,67,Osteoporosis,1/26/2023
+68,68,Heart Failure,10/25/2025
+69,69,Type 2 Diabetes,4/30/2023
+70,70,Asthma,3/7/2024
+71,71,Insomnia,1/31/2024
+72,72,Obesity,5/26/2025
+73,73,Asthma,10/4/2023
+74,74,Hyperlipidemia,2/20/2023
+75,75,Sleep Apnea,2/1/2022
+76,76,Asthma,6/16/2023
+77,77,Heart Failure,4/22/2025
+78,78,Obesity,1/15/2022
+79,79,Pneumonia,8/2/2025
+80,80,Sleep Apnea,3/4/2024
+81,81,Epilepsy,7/24/2022
+82,82,Chronic Kidney Disease,3/18/2023
+83,83,Hyperlipidemia,3/20/2024
+84,84,Osteoarthritis,4/7/2023
+85,85,Sleep Apnea,6/8/2022
+86,86,Anemia,8/31/2024
+87,87,Type 2 Diabetes,9/9/2024
+88,88,Coronary Artery Disease,6/23/2022
+89,89,Insomnia,2/15/2023
+90,90,Osteoarthritis,12/23/2022
+91,91,Chronic Kidney Disease,8/21/2024
+92,92,Insomnia,12/2/2024
+93,93,Osteoarthritis,11/28/2024
+94,94,Chronic Kidney Disease,10/3/2025
+95,95,Osteoporosis,1/27/2025
+96,96,Coronary Artery Disease,4/14/2023
+97,97,Obesity,6/7/2022
+98,98,Sleep Apnea,6/16/2024
+99,99,Sleep Apnea,8/31/2025
+100,100,Hyperlipidemia,11/25/2025
+101,101,Osteoarthritis,12/3/2022
+102,102,Obesity,12/12/2022
+103,103,Insomnia,2/24/2022
+104,104,Hypertension,7/26/2022
+105,105,Insomnia,3/21/2024
+106,106,Insomnia,3/9/2024
+107,107,Insomnia,6/26/2023
+108,108,Sleep Apnea,3/29/2023
+109,109,Asthma,4/27/2025
+110,110,Anemia,11/4/2023
+111,111,Coronary Artery Disease,3/26/2025
+112,112,Insomnia,11/8/2025
+113,113,Chronic Obstructive Pulmonary Disease,4/9/2023
+114,114,Asthma,10/24/2022
+115,115,Chronic Obstructive Pulmonary Disease,10/24/2025
+116,116,Pneumonia,7/16/2024
+117,117,Hypertension,3/2/2023
+118,118,Hyperlipidemia,6/27/2024
+119,119,Obesity,1/23/2024
+120,120,Type 2 Diabetes,8/15/2025
+121,121,Asthma,1/9/2023
+122,122,Sleep Apnea,12/19/2025
+123,123,Sleep Apnea,9/29/2025
+124,124,Asthma,9/22/2022
+125,125,Osteoarthritis,8/29/2022
+126,126,Pneumonia,2/18/2024
+127,127,Type 2 Diabetes,3/7/2022
+128,128,Insomnia,3/13/2023
+129,129,Pneumonia,9/28/2023
+130,130,Sleep Apnea,11/17/2025
+131,131,Pneumonia,12/20/2025
+132,132,Chronic Obstructive Pulmonary Disease,8/10/2022
+133,133,Type 2 Diabetes,7/26/2025
+134,134,Chronic Obstructive Pulmonary Disease,5/13/2022
+135,135,Insomnia,12/29/2024
+136,136,Coronary Artery Disease,5/20/2025
+137,137,Pneumonia,7/25/2025
+138,138,Hypertension,11/23/2022
+139,139,Heart Failure,7/29/2025
+140,140,Chronic Kidney Disease,6/19/2022
+141,141,Epilepsy,1/29/2024
+142,142,Obesity,11/18/2023
+143,143,Coronary Artery Disease,4/7/2023
+144,144,Chronic Kidney Disease,2/2/2022
+145,145,Epilepsy,2/1/2025
+146,146,Osteoarthritis,5/6/2023
+147,147,Hypertension,8/24/2024
+148,148,Obesity,8/23/2023
+149,149,Osteoarthritis,6/30/2023
+150,150,Hypertension,7/18/2025
+151,151,Osteoarthritis,5/19/2022
+152,152,Coronary Artery Disease,12/12/2024
+153,153,Osteoporosis,12/27/2024
+154,154,Coronary Artery Disease,7/10/2023
+155,155,Chronic Kidney Disease,1/19/2023
+156,156,Sleep Apnea,1/8/2022
+157,157,Hyperlipidemia,9/30/2025
+158,158,Chronic Obstructive Pulmonary Disease,10/16/2025
+159,159,Chronic Obstructive Pulmonary Disease,12/19/2022
+160,160,Insomnia,2/16/2022
+161,161,Epilepsy,6/29/2022
+162,162,Sleep Apnea,4/9/2022
+163,163,Chronic Kidney Disease,4/29/2025
+164,164,Chronic Kidney Disease,7/27/2025
+165,165,Chronic Kidney Disease,8/12/2022
+166,166,Osteoarthritis,12/26/2024
+167,167,Heart Failure,9/19/2022
+168,168,Hyperlipidemia,6/21/2023
+169,169,Heart Failure,5/25/2024
+170,170,Hypertension,11/17/2024
+171,171,Type 2 Diabetes,7/1/2025
+172,172,Type 2 Diabetes,3/7/2022
+173,173,Insomnia,10/14/2022
+174,174,Anemia,2/14/2023
+175,175,Anemia,3/30/2023
+176,176,Asthma,12/29/2025
+177,177,Anemia,2/9/2025
+178,178,Hyperlipidemia,4/14/2023
+179,179,Osteoporosis,11/20/2025
+180,180,Chronic Obstructive Pulmonary Disease,12/31/2023
+181,181,Epilepsy,1/2/2024
+182,182,Hyperlipidemia,9/26/2023
+183,183,Asthma,7/30/2022
+184,184,Anemia,9/27/2025
+185,185,Asthma,1/21/2022
+186,186,Asthma,9/12/2022
+187,187,Hyperlipidemia,12/2/2022
+188,188,Chronic Kidney Disease,2/13/2023
+189,189,Obesity,7/12/2022
+190,190,Coronary Artery Disease,1/27/2022
+191,191,Sleep Apnea,9/17/2024
+192,192,Sleep Apnea,11/17/2025
+193,193,Pneumonia,6/27/2022
+194,194,Heart Failure,3/10/2023
+195,195,Epilepsy,1/10/2024
+196,196,Type 2 Diabetes,9/17/2025
+197,197,Heart Failure,10/11/2024
+198,198,Type 2 Diabetes,1/24/2025
+199,199,Heart Failure,4/29/2024
+200,200,Epilepsy,9/2/2023
+201,201,Heart Failure,10/19/2022
+202,202,Osteoporosis,6/16/2025
+203,203,Asthma,3/20/2025
+204,204,Anemia,2/6/2022
+205,205,Asthma,11/11/2024
+206,206,Coronary Artery Disease,5/4/2022
+207,207,Insomnia,12/15/2024
+208,208,Epilepsy,4/21/2025
+209,209,Coronary Artery Disease,7/11/2022
+210,210,Insomnia,9/26/2023
+211,211,Coronary Artery Disease,6/30/2022
+212,212,Anemia,4/8/2024
+213,213,Insomnia,9/17/2025
+214,214,Asthma,4/29/2022
+215,215,Anemia,8/4/2023
+216,216,Coronary Artery Disease,11/22/2025
+217,217,Type 2 Diabetes,3/16/2023
+218,218,Type 2 Diabetes,7/13/2022
+219,219,Asthma,12/15/2023
+220,220,Osteoporosis,1/13/2024
+221,221,Hyperlipidemia,8/26/2024
+222,222,Asthma,4/4/2023
+223,223,Anemia,10/28/2025
+224,224,Obesity,2/1/2024
+225,225,Anemia,2/23/2023
